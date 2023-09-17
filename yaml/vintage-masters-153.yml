@@ -1,0 +1,109 @@
+---
+object: card
+id: 25da4597-b05f-4ae9-bc71-51b1b5951b7c
+oracle_id: 8785f42f-87b9-4a0a-89ce-ea423649ba9c
+multiverse_ids:
+- 382880
+mtgo_id: 52911
+mtgo_foil_id: 52912
+name: Chain Lightning
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/25da4597-b05f-4ae9-bc71-51b1b5951b7c
+scryfall_uri: https://scryfall.com/card/vma/153/chain-lightning?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/5/25da4597-b05f-4ae9-bc71-51b1b5951b7c.jpg?1562902685
+  normal: https://cards.scryfall.io/normal/front/2/5/25da4597-b05f-4ae9-bc71-51b1b5951b7c.jpg?1562902685
+  large: https://cards.scryfall.io/large/front/2/5/25da4597-b05f-4ae9-bc71-51b1b5951b7c.jpg?1562902685
+  png: https://cards.scryfall.io/png/front/2/5/25da4597-b05f-4ae9-bc71-51b1b5951b7c.png?1562902685
+  art_crop: https://cards.scryfall.io/art_crop/front/2/5/25da4597-b05f-4ae9-bc71-51b1b5951b7c.jpg?1562902685
+  border_crop: https://cards.scryfall.io/border_crop/front/2/5/25da4597-b05f-4ae9-bc71-51b1b5951b7c.jpg?1562902685
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Chain Lightning deals 3 damage to any target. Then that player or that
+  permanent's controller may pay {R}{R}. If the player does, they may copy this spell
+  and may choose a new target for that copy.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/25da4597-b05f-4ae9-bc71-51b1b5951b7c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8785f42f-87b9-4a0a-89ce-ea423649ba9c&unique=prints
+collector_number: '153'
+digital: true
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 3e297899-ab77-4da1-be4d-3ce4d8df62c8
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5827
+penny_rank: 19
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382880
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chain+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chain+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chain+Lightning
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Chain+Lightning&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chain+Lightning&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52911?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

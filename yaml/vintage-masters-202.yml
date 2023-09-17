@@ -1,0 +1,127 @@
+---
+object: card
+id: c25df202-0dd4-448d-8cb3-11fd7df0d505
+oracle_id: b9cd714b-2ad8-4fdb-a8aa-82b17730e071
+multiverse_ids:
+- 382915
+mtgo_id: 52793
+mtgo_foil_id: 52794
+name: Deranged Hermit
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/c25df202-0dd4-448d-8cb3-11fd7df0d505
+scryfall_uri: https://scryfall.com/card/vma/202/deranged-hermit?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/2/c25df202-0dd4-448d-8cb3-11fd7df0d505.jpg?1562934031
+  normal: https://cards.scryfall.io/normal/front/c/2/c25df202-0dd4-448d-8cb3-11fd7df0d505.jpg?1562934031
+  large: https://cards.scryfall.io/large/front/c/2/c25df202-0dd4-448d-8cb3-11fd7df0d505.jpg?1562934031
+  png: https://cards.scryfall.io/png/front/c/2/c25df202-0dd4-448d-8cb3-11fd7df0d505.png?1562934031
+  art_crop: https://cards.scryfall.io/art_crop/front/c/2/c25df202-0dd4-448d-8cb3-11fd7df0d505.jpg?1562934031
+  border_crop: https://cards.scryfall.io/border_crop/front/c/2/c25df202-0dd4-448d-8cb3-11fd7df0d505.jpg?1562934031
+mana_cost: "{3}{G}{G}"
+cmc: 5.0
+type_line: Creature — Elf
+oracle_text: |-
+  Echo {3}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+  When Deranged Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens.
+  Squirrel creatures get +1/+1.
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Echo
+all_parts:
+- object: related_card
+  id: 27f8ccb9-32b2-4562-a60f-843e82795984
+  component: token
+  name: Squirrel
+  type_line: Token Creature — Squirrel
+  uri: https://api.scryfall.com/cards/27f8ccb9-32b2-4562-a60f-843e82795984
+- object: related_card
+  id: c25df202-0dd4-448d-8cb3-11fd7df0d505
+  component: combo_piece
+  name: Deranged Hermit
+  type_line: Creature — Elf
+  uri: https://api.scryfall.com/cards/c25df202-0dd4-448d-8cb3-11fd7df0d505
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: true
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c25df202-0dd4-448d-8cb3-11fd7df0d505/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9cd714b-2ad8-4fdb-a8aa-82b17730e071&unique=prints
+collector_number: '202'
+digital: true
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: 7fa1a931-406d-4cc8-860f-b54b7009c71c
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 8078
+penny_rank: 1198
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.11'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382915
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deranged+Hermit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deranged+Hermit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Deranged+Hermit
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Deranged+Hermit&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deranged+Hermit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52793?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

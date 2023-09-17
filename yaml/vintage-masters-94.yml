@@ -1,0 +1,113 @@
+---
+object: card
+id: 2f9ce334-8322-4bbe-ac50-67e63f56f8b9
+oracle_id: afc3a65e-7a7a-4bd9-bca4-aa762b9bbbcb
+multiverse_ids:
+- 383099
+mtgo_id: 52949
+mtgo_foil_id: 52950
+name: Skywing Aven
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/2f9ce334-8322-4bbe-ac50-67e63f56f8b9
+scryfall_uri: https://scryfall.com/card/vma/94/skywing-aven?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/f/2f9ce334-8322-4bbe-ac50-67e63f56f8b9.jpg?1562904729
+  normal: https://cards.scryfall.io/normal/front/2/f/2f9ce334-8322-4bbe-ac50-67e63f56f8b9.jpg?1562904729
+  large: https://cards.scryfall.io/large/front/2/f/2f9ce334-8322-4bbe-ac50-67e63f56f8b9.jpg?1562904729
+  png: https://cards.scryfall.io/png/front/2/f/2f9ce334-8322-4bbe-ac50-67e63f56f8b9.png?1562904729
+  art_crop: https://cards.scryfall.io/art_crop/front/2/f/2f9ce334-8322-4bbe-ac50-67e63f56f8b9.jpg?1562904729
+  border_crop: https://cards.scryfall.io/border_crop/front/2/f/2f9ce334-8322-4bbe-ac50-67e63f56f8b9.jpg?1562904729
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Bird Soldier
+oracle_text: |-
+  Flying
+  Discard a card: Return Skywing Aven to its owner's hand.
+power: '2'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2f9ce334-8322-4bbe-ac50-67e63f56f8b9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aafc3a65e-7a7a-4bd9-bca4-aa762b9bbbcb&unique=prints
+collector_number: '94'
+digital: true
+rarity: common
+flavor_text: '"I am as the wind that bears me: harsh yet gentle, fleeting yet ever-present.
+  Together we fly beyond imagination."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: 5ce435f1-be1c-4b69-8c87-dc00076e5cde
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20389
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383099
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Skywing+Aven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Skywing+Aven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Skywing+Aven
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Skywing+Aven&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skywing+Aven&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52949?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

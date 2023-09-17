@@ -1,0 +1,111 @@
+---
+object: card
+id: de4d77e7-29df-4a8c-8acb-10d057cbe945
+oracle_id: 0cc6d683-366f-4ae4-be60-20ad9621fdaf
+multiverse_ids:
+- 383114
+mtgo_id: 52759
+mtgo_foil_id: 52760
+name: Stroke of Genius
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/de4d77e7-29df-4a8c-8acb-10d057cbe945
+scryfall_uri: https://scryfall.com/card/vma/95/stroke-of-genius?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/e/de4d77e7-29df-4a8c-8acb-10d057cbe945.jpg?1562939699
+  normal: https://cards.scryfall.io/normal/front/d/e/de4d77e7-29df-4a8c-8acb-10d057cbe945.jpg?1562939699
+  large: https://cards.scryfall.io/large/front/d/e/de4d77e7-29df-4a8c-8acb-10d057cbe945.jpg?1562939699
+  png: https://cards.scryfall.io/png/front/d/e/de4d77e7-29df-4a8c-8acb-10d057cbe945.png?1562939699
+  art_crop: https://cards.scryfall.io/art_crop/front/d/e/de4d77e7-29df-4a8c-8acb-10d057cbe945.jpg?1562939699
+  border_crop: https://cards.scryfall.io/border_crop/front/d/e/de4d77e7-29df-4a8c-8acb-10d057cbe945.jpg?1562939699
+mana_cost: "{X}{2}{U}"
+cmc: 3.0
+type_line: Instant
+oracle_text: Target player draws X cards.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/de4d77e7-29df-4a8c-8acb-10d057cbe945/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0cc6d683-366f-4ae4-be60-20ad9621fdaf&unique=prints
+collector_number: '95'
+digital: true
+rarity: rare
+flavor_text: After a hundred failed experiments, Urza was stunned to find that common
+  silver passed through the portal undamaged. He immediately designed a golem made
+  of the metal.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Stephen Daniele
+artist_ids:
+- a267f9bb-072b-410a-a704-50f4d19020d8
+illustration_id: dd3f514c-a057-4083-ab5c-d8d1f271d813
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2609
+penny_rank: 553
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383114
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Stroke+of+Genius&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Stroke+of+Genius&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Stroke+of+Genius
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Stroke+of+Genius&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Stroke+of+Genius&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52759?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

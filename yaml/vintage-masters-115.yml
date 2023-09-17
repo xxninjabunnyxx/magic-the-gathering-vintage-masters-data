@@ -1,0 +1,112 @@
+---
+object: card
+id: f507174c-6e8c-4711-9ce7-680413af99f6
+oracle_id: 0dd73855-6a7a-4eb4-80e0-1509f9397e5a
+multiverse_ids:
+- 382909
+mtgo_id: 53149
+mtgo_foil_id: 53150
+name: Death's-Head Buzzard
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/f507174c-6e8c-4711-9ce7-680413af99f6
+scryfall_uri: https://scryfall.com/card/vma/115/deaths-head-buzzard?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/5/f507174c-6e8c-4711-9ce7-680413af99f6.jpg?1562944334
+  normal: https://cards.scryfall.io/normal/front/f/5/f507174c-6e8c-4711-9ce7-680413af99f6.jpg?1562944334
+  large: https://cards.scryfall.io/large/front/f/5/f507174c-6e8c-4711-9ce7-680413af99f6.jpg?1562944334
+  png: https://cards.scryfall.io/png/front/f/5/f507174c-6e8c-4711-9ce7-680413af99f6.png?1562944334
+  art_crop: https://cards.scryfall.io/art_crop/front/f/5/f507174c-6e8c-4711-9ce7-680413af99f6.jpg?1562944334
+  border_crop: https://cards.scryfall.io/border_crop/front/f/5/f507174c-6e8c-4711-9ce7-680413af99f6.jpg?1562944334
+mana_cost: "{1}{B}{B}"
+cmc: 3.0
+type_line: Creature — Bird
+oracle_text: |-
+  Flying
+  When Death's-Head Buzzard dies, all creatures get -1/-1 until end of turn.
+power: '2'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f507174c-6e8c-4711-9ce7-680413af99f6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0dd73855-6a7a-4eb4-80e0-1509f9397e5a&unique=prints
+collector_number: '115'
+digital: true
+rarity: common
+flavor_text: Infested with vermin, ever hungering, dropping from night's sky.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Marcelo Vignali
+artist_ids:
+- 9a910e16-deda-49d1-b2ed-0fe570aec489
+illustration_id: 57ca1552-9732-4af9-83d0-d31dcfb454a1
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21335
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382909
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Death%27s-Head+Buzzard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Death%27s-Head+Buzzard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Death%27s-Head+Buzzard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Death%27s-Head+Buzzard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Death%27s-Head+Buzzard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53149?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

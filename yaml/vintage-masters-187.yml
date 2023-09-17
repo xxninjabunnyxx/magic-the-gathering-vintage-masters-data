@@ -1,0 +1,111 @@
+---
+object: card
+id: 811fd183-70c0-49c2-ba75-4994c5c4b355
+oracle_id: ece3e379-c586-48bd-8742-472b5deccc35
+multiverse_ids:
+- 383102
+mtgo_id: 53041
+mtgo_foil_id: 53042
+name: Solar Blast
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/811fd183-70c0-49c2-ba75-4994c5c4b355
+scryfall_uri: https://scryfall.com/card/vma/187/solar-blast?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/1/811fd183-70c0-49c2-ba75-4994c5c4b355.jpg?1562921004
+  normal: https://cards.scryfall.io/normal/front/8/1/811fd183-70c0-49c2-ba75-4994c5c4b355.jpg?1562921004
+  large: https://cards.scryfall.io/large/front/8/1/811fd183-70c0-49c2-ba75-4994c5c4b355.jpg?1562921004
+  png: https://cards.scryfall.io/png/front/8/1/811fd183-70c0-49c2-ba75-4994c5c4b355.png?1562921004
+  art_crop: https://cards.scryfall.io/art_crop/front/8/1/811fd183-70c0-49c2-ba75-4994c5c4b355.jpg?1562921004
+  border_crop: https://cards.scryfall.io/border_crop/front/8/1/811fd183-70c0-49c2-ba75-4994c5c4b355.jpg?1562921004
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Instant
+oracle_text: |-
+  Solar Blast deals 3 damage to any target.
+  Cycling {1}{R}{R} ({1}{R}{R}, Discard this card: Draw a card.)
+  When you cycle Solar Blast, you may have it deal 1 damage to any target.
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Cycling
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/811fd183-70c0-49c2-ba75-4994c5c4b355/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aece3e379-c586-48bd-8742-472b5deccc35&unique=prints
+collector_number: '187'
+digital: true
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: 6f288bd1-edb9-4d16-ac7c-19591ef97c13
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18778
+penny_rank: 7768
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383102
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Solar+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Solar+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Solar+Blast
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Solar+Blast&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Solar+Blast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53041?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

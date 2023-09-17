@@ -1,0 +1,109 @@
+---
+object: card
+id: 842c3df8-43c9-4555-901c-67cdbfd26348
+oracle_id: 6ad8011d-3471-4369-9d68-b264cc027487
+multiverse_ids:
+- 383101
+mtgo_id: 52899
+mtgo_foil_id: 52900
+name: Sol Ring
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/842c3df8-43c9-4555-901c-67cdbfd26348
+scryfall_uri: https://scryfall.com/card/vma/283/sol-ring?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/4/842c3df8-43c9-4555-901c-67cdbfd26348.jpg?1562921751
+  normal: https://cards.scryfall.io/normal/front/8/4/842c3df8-43c9-4555-901c-67cdbfd26348.jpg?1562921751
+  large: https://cards.scryfall.io/large/front/8/4/842c3df8-43c9-4555-901c-67cdbfd26348.jpg?1562921751
+  png: https://cards.scryfall.io/png/front/8/4/842c3df8-43c9-4555-901c-67cdbfd26348.png?1562921751
+  art_crop: https://cards.scryfall.io/art_crop/front/8/4/842c3df8-43c9-4555-901c-67cdbfd26348.jpg?1562921751
+  border_crop: https://cards.scryfall.io/border_crop/front/8/4/842c3df8-43c9-4555-901c-67cdbfd26348.jpg?1562921751
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact
+oracle_text: "{T}: Add {C}{C}."
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: restricted
+  penny: not_legal
+  commander: legal
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/842c3df8-43c9-4555-901c-67cdbfd26348/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6ad8011d-3471-4369-9d68-b264cc027487&unique=prints
+collector_number: '283'
+digital: true
+rarity: mythic
+flavor_text: Lost to time is the artificer's art of trapping light from a distant
+  star in a ring of purest gold.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mike Bierek
+artist_ids:
+- e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7
+illustration_id: 146aaae4-93f4-409a-be32-010e86d137da
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.26'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383101
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sol+Ring&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sol+Ring&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sol+Ring
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Sol+Ring&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sol+Ring&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52899?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

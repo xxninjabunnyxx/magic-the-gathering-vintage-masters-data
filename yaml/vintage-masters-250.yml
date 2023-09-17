@@ -1,0 +1,114 @@
+---
+object: card
+id: 8b80586f-06bf-4957-ae8a-e3d19ae291a0
+oracle_id: b26e3596-5b28-4eb6-b3e2-03f63d8c6d49
+multiverse_ids:
+- 382910
+mtgo_id: 53207
+mtgo_foil_id: 53208
+name: Deathreap Ritual
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/8b80586f-06bf-4957-ae8a-e3d19ae291a0
+scryfall_uri: https://scryfall.com/card/vma/250/deathreap-ritual?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/b/8b80586f-06bf-4957-ae8a-e3d19ae291a0.jpg?1562923173
+  normal: https://cards.scryfall.io/normal/front/8/b/8b80586f-06bf-4957-ae8a-e3d19ae291a0.jpg?1562923173
+  large: https://cards.scryfall.io/large/front/8/b/8b80586f-06bf-4957-ae8a-e3d19ae291a0.jpg?1562923173
+  png: https://cards.scryfall.io/png/front/8/b/8b80586f-06bf-4957-ae8a-e3d19ae291a0.png?1562923173
+  art_crop: https://cards.scryfall.io/art_crop/front/8/b/8b80586f-06bf-4957-ae8a-e3d19ae291a0.jpg?1562923173
+  border_crop: https://cards.scryfall.io/border_crop/front/8/b/8b80586f-06bf-4957-ae8a-e3d19ae291a0.jpg?1562923173
+mana_cost: "{2}{B}{G}"
+cmc: 4.0
+type_line: Enchantment
+oracle_text: Morbid — At the beginning of each end step, if a creature died this turn,
+  you may draw a card.
+colors:
+- B
+- G
+color_identity:
+- B
+- G
+keywords:
+- Morbid
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/8b80586f-06bf-4957-ae8a-e3d19ae291a0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab26e3596-5b28-4eb6-b3e2-03f63d8c6d49&unique=prints
+collector_number: '250'
+digital: true
+rarity: uncommon
+flavor_text: |-
+  "All who set foot in Paliano are pawns in someone's play for power."
+  —Marchesa, the Black Rose
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steve Argyle
+artist_ids:
+- a44ddda4-5331-4f83-aac9-3e00ed36bd7b
+illustration_id: 1c2e50a4-f62b-41c2-b5ed-5f8886c005ee
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1703
+penny_rank: 4091
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382910
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Deathreap+Ritual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Deathreap+Ritual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Deathreap+Ritual
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Deathreap+Ritual&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deathreap+Ritual&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53207?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

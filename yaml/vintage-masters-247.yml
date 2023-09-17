@@ -1,0 +1,126 @@
+---
+object: card
+id: 75144dba-647f-4d3e-8fae-1445daeddfe6
+oracle_id: 9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8
+multiverse_ids:
+- 382903
+mtgo_id: 52985
+mtgo_foil_id: 52986
+name: Dack Fayden
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/75144dba-647f-4d3e-8fae-1445daeddfe6
+scryfall_uri: https://scryfall.com/card/vma/247/dack-fayden?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/5/75144dba-647f-4d3e-8fae-1445daeddfe6.jpg?1562918469
+  normal: https://cards.scryfall.io/normal/front/7/5/75144dba-647f-4d3e-8fae-1445daeddfe6.jpg?1562918469
+  large: https://cards.scryfall.io/large/front/7/5/75144dba-647f-4d3e-8fae-1445daeddfe6.jpg?1562918469
+  png: https://cards.scryfall.io/png/front/7/5/75144dba-647f-4d3e-8fae-1445daeddfe6.png?1562918469
+  art_crop: https://cards.scryfall.io/art_crop/front/7/5/75144dba-647f-4d3e-8fae-1445daeddfe6.jpg?1562918469
+  border_crop: https://cards.scryfall.io/border_crop/front/7/5/75144dba-647f-4d3e-8fae-1445daeddfe6.jpg?1562918469
+mana_cost: "{1}{U}{R}"
+cmc: 3.0
+type_line: Legendary Planeswalker — Dack
+oracle_text: |-
+  +1: Target player draws two cards, then discards two cards.
+  −2: Gain control of target artifact.
+  −6: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents."
+loyalty: '3'
+colors:
+- R
+- U
+color_identity:
+- R
+- U
+keywords: []
+all_parts:
+- object: related_card
+  id: c80136c2-7230-4fe5-b7dc-37ee32f1bd8e
+  component: combo_piece
+  name: Dack Fayden Emblem
+  type_line: Emblem — Dack
+  uri: https://api.scryfall.com/cards/c80136c2-7230-4fe5-b7dc-37ee32f1bd8e
+- object: related_card
+  id: 75144dba-647f-4d3e-8fae-1445daeddfe6
+  component: combo_piece
+  name: Dack Fayden
+  type_line: Legendary Planeswalker — Dack
+  uri: https://api.scryfall.com/cards/75144dba-647f-4d3e-8fae-1445daeddfe6
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/75144dba-647f-4d3e-8fae-1445daeddfe6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9d4b1e44-3c66-4b1b-8a1d-308aa4f841f8&unique=prints
+collector_number: '247'
+digital: true
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 37c6b2f9-96bf-4510-9765-ea04b36052f7
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3826
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '2.49'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382903
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dack+Fayden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dack+Fayden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dack+Fayden
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Dack+Fayden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dack+Fayden&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/52985?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

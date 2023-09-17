@@ -1,0 +1,116 @@
+---
+object: card
+id: 9924b49b-a432-4fd4-9f2e-078bb5bb66af
+oracle_id: 37688720-03de-4eca-a82d-a0afe8d58adc
+multiverse_ids:
+- 382855
+mtgo_id: 53015
+mtgo_foil_id: 53016
+name: Baleful Strix
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/9924b49b-a432-4fd4-9f2e-078bb5bb66af
+scryfall_uri: https://scryfall.com/card/vma/243/baleful-strix?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/9/9924b49b-a432-4fd4-9f2e-078bb5bb66af.jpg?1562925905
+  normal: https://cards.scryfall.io/normal/front/9/9/9924b49b-a432-4fd4-9f2e-078bb5bb66af.jpg?1562925905
+  large: https://cards.scryfall.io/large/front/9/9/9924b49b-a432-4fd4-9f2e-078bb5bb66af.jpg?1562925905
+  png: https://cards.scryfall.io/png/front/9/9/9924b49b-a432-4fd4-9f2e-078bb5bb66af.png?1562925905
+  art_crop: https://cards.scryfall.io/art_crop/front/9/9/9924b49b-a432-4fd4-9f2e-078bb5bb66af.jpg?1562925905
+  border_crop: https://cards.scryfall.io/border_crop/front/9/9/9924b49b-a432-4fd4-9f2e-078bb5bb66af.jpg?1562925905
+mana_cost: "{U}{B}"
+cmc: 2.0
+type_line: Artifact Creature — Bird
+oracle_text: |-
+  Flying, deathtouch
+  When Baleful Strix enters the battlefield, draw a card.
+power: '1'
+toughness: '1'
+colors:
+- B
+- U
+color_identity:
+- B
+- U
+keywords:
+- Deathtouch
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9924b49b-a432-4fd4-9f2e-078bb5bb66af/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A37688720-03de-4eca-a82d-a0afe8d58adc&unique=prints
+collector_number: '243'
+digital: true
+rarity: rare
+flavor_text: Its beak rends flesh and bone, exposing the tender marrow of dream.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nils Hamm
+artist_ids:
+- c540d1fc-1500-457f-93cf-d6069ee66546
+illustration_id: ae7b0c5c-5425-4806-a74e-728d4c2b8ad4
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 343
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.18'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382855
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Baleful+Strix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Baleful+Strix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Baleful+Strix
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Baleful+Strix&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Baleful+Strix&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53015?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

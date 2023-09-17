@@ -1,0 +1,115 @@
+---
+object: card
+id: 01afda8e-bac1-4c6c-b5cf-c549969d739d
+oracle_id: 48fe0f52-1676-49d5-acf6-5476081e8e1b
+multiverse_ids:
+- 383075
+mtgo_id: 53043
+mtgo_foil_id: 53044
+name: Rorix Bladewing
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/01afda8e-bac1-4c6c-b5cf-c549969d739d
+scryfall_uri: https://scryfall.com/card/vma/183/rorix-bladewing?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/1/01afda8e-bac1-4c6c-b5cf-c549969d739d.jpg?1562895277
+  normal: https://cards.scryfall.io/normal/front/0/1/01afda8e-bac1-4c6c-b5cf-c549969d739d.jpg?1562895277
+  large: https://cards.scryfall.io/large/front/0/1/01afda8e-bac1-4c6c-b5cf-c549969d739d.jpg?1562895277
+  png: https://cards.scryfall.io/png/front/0/1/01afda8e-bac1-4c6c-b5cf-c549969d739d.png?1562895277
+  art_crop: https://cards.scryfall.io/art_crop/front/0/1/01afda8e-bac1-4c6c-b5cf-c549969d739d.jpg?1562895277
+  border_crop: https://cards.scryfall.io/border_crop/front/0/1/01afda8e-bac1-4c6c-b5cf-c549969d739d.jpg?1562895277
+mana_cost: "{3}{R}{R}{R}"
+cmc: 6.0
+type_line: Legendary Creature — Dragon
+oracle_text: Flying, haste
+power: '6'
+toughness: '5'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+- Haste
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/01afda8e-bac1-4c6c-b5cf-c549969d739d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A48fe0f52-1676-49d5-acf6-5476081e8e1b&unique=prints
+collector_number: '183'
+digital: true
+rarity: rare
+flavor_text: In the smoldering ashes of Shiv, a few dragons strive to rebuild their
+  native land. The rest seek any opportunity to restore the broken pride of their
+  race.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Darrell Riche
+artist_ids:
+- 262c8e55-4efc-467b-a042-6f734b9d2e01
+illustration_id: 21d5ccf0-9bff-4118-8d48-b2b687bcc82b
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15318
+penny_rank: 5405
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383075
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rorix+Bladewing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rorix+Bladewing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rorix+Bladewing
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Rorix+Bladewing&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rorix+Bladewing&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53043?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

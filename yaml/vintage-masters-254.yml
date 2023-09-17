@@ -1,0 +1,114 @@
+---
+object: card
+id: b2513524-f149-4b0b-bf17-f6ef7f497508
+oracle_id: a374f99e-6443-486c-8026-8eba4c7e6ad7
+multiverse_ids:
+- 382969
+mtgo_id: 53211
+mtgo_foil_id: 53212
+name: Grenzo, Dungeon Warden
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/b2513524-f149-4b0b-bf17-f6ef7f497508
+scryfall_uri: https://scryfall.com/card/vma/254/grenzo-dungeon-warden?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/2/b2513524-f149-4b0b-bf17-f6ef7f497508.jpg?1562930896
+  normal: https://cards.scryfall.io/normal/front/b/2/b2513524-f149-4b0b-bf17-f6ef7f497508.jpg?1562930896
+  large: https://cards.scryfall.io/large/front/b/2/b2513524-f149-4b0b-bf17-f6ef7f497508.jpg?1562930896
+  png: https://cards.scryfall.io/png/front/b/2/b2513524-f149-4b0b-bf17-f6ef7f497508.png?1562930896
+  art_crop: https://cards.scryfall.io/art_crop/front/b/2/b2513524-f149-4b0b-bf17-f6ef7f497508.jpg?1562930896
+  border_crop: https://cards.scryfall.io/border_crop/front/b/2/b2513524-f149-4b0b-bf17-f6ef7f497508.jpg?1562930896
+mana_cost: "{X}{B}{R}"
+cmc: 2.0
+type_line: Legendary Creature — Goblin Rogue
+oracle_text: |-
+  Grenzo, Dungeon Warden enters the battlefield with X +1/+1 counters on it.
+  {2}: Put the bottom card of your library into your graveyard. If it's a creature card with power less than or equal to Grenzo's power, put it onto the battlefield.
+power: '2'
+toughness: '2'
+colors:
+- B
+- R
+color_identity:
+- B
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b2513524-f149-4b0b-bf17-f6ef7f497508/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa374f99e-6443-486c-8026-8eba4c7e6ad7&unique=prints
+collector_number: '254'
+digital: true
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Lucas Graciano
+artist_ids:
+- ce98f39c-7cdd-47e6-a520-6c50443bb4c2
+illustration_id: c559f064-37d1-4adc-9285-7d019da4ee14
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 6810
+penny_rank: 1733
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382969
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Grenzo%2C+Dungeon+Warden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Grenzo%2C+Dungeon+Warden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Grenzo%2C+Dungeon+Warden
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Grenzo%2C+Dungeon+Warden&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Grenzo%2C+Dungeon+Warden&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53211?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

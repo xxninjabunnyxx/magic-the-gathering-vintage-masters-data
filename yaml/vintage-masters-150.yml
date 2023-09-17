@@ -1,0 +1,125 @@
+---
+object: card
+id: c042844a-7291-45f9-92c9-482842228777
+oracle_id: f5c5f64c-6911-430c-a825-b32b96d39c7d
+multiverse_ids:
+- 382862
+mtgo_id: 53013
+mtgo_foil_id: 53014
+name: Beetleback Chief
+lang: en
+released_at: '2014-06-16'
+uri: https://api.scryfall.com/cards/c042844a-7291-45f9-92c9-482842228777
+scryfall_uri: https://scryfall.com/card/vma/150/beetleback-chief?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/0/c042844a-7291-45f9-92c9-482842228777.jpg?1562933636
+  normal: https://cards.scryfall.io/normal/front/c/0/c042844a-7291-45f9-92c9-482842228777.jpg?1562933636
+  large: https://cards.scryfall.io/large/front/c/0/c042844a-7291-45f9-92c9-482842228777.jpg?1562933636
+  png: https://cards.scryfall.io/png/front/c/0/c042844a-7291-45f9-92c9-482842228777.png?1562933636
+  art_crop: https://cards.scryfall.io/art_crop/front/c/0/c042844a-7291-45f9-92c9-482842228777.jpg?1562933636
+  border_crop: https://cards.scryfall.io/border_crop/front/c/0/c042844a-7291-45f9-92c9-482842228777.jpg?1562933636
+mana_cost: "{2}{R}{R}"
+cmc: 4.0
+type_line: Creature — Goblin Warrior
+oracle_text: When Beetleback Chief enters the battlefield, create two 1/1 red Goblin
+  creature tokens.
+power: '2'
+toughness: '2'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+all_parts:
+- object: related_card
+  id: 419c1799-1525-44ec-9f6c-dfc290f04ba7
+  component: token
+  name: Goblin
+  type_line: Token Creature — Goblin
+  uri: https://api.scryfall.com/cards/419c1799-1525-44ec-9f6c-dfc290f04ba7
+- object: related_card
+  id: c042844a-7291-45f9-92c9-482842228777
+  component: combo_piece
+  name: Beetleback Chief
+  type_line: Creature — Goblin Warrior
+  uri: https://api.scryfall.com/cards/c042844a-7291-45f9-92c9-482842228777
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: a944551a-73fa-41cd-9159-e8d0e4674403
+set: vma
+set_name: Vintage Masters
+set_type: masters
+set_uri: https://api.scryfall.com/sets/a944551a-73fa-41cd-9159-e8d0e4674403
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Avma&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/vma?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c042844a-7291-45f9-92c9-482842228777/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af5c5f64c-6911-430c-a825-b32b96d39c7d&unique=prints
+collector_number: '150'
+digital: true
+rarity: common
+flavor_text: Whether trained, ridden, or eaten, few goblin military innovations have
+  rivaled the bug.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne England
+artist_ids:
+- 62dc90c0-4bc2-4d42-ad76-59cad9243566
+illustration_id: 6ecba3ed-0f55-4ab0-a860-30854e0620a7
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2429
+penny_rank: 2876
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382862
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Beetleback+Chief&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Beetleback+Chief&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Beetleback+Chief
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/search/magic/product?productLineName=magic&q=Beetleback+Chief&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall&view=grid
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Beetleback+Chief&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/53013?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
